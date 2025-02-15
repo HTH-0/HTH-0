@@ -15,6 +15,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTH-0&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
-###
 <img src="https://github.com/{github username}/{github username}/blob/output/github-contribution-grid-snake.svg"/>
