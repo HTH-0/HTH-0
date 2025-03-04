@@ -12,8 +12,6 @@
 
 <img src="https://github.com/HTH-0/HTH-0/blob/output/github-contribution-grid-snake.svg"/>
 
-레포지토리별로 정리하는 방식으로 수정하면 더 깔끔하게 관리할 수 있어. 예를 들어, 각 레포지토리에 대한 설명과 진행 상태를 추가하면 체계적으로 관리할 수 있어.  
-
 ---
 
 ## 📖 **개인 개발 로그 (Repositories Overview)**
@@ -21,7 +19,7 @@
 ### 🗂 **레포지토리 목록 및 진행 상황**
 
 #### 📌 **[Obsidiant](https://github.com/HTH-0/Obsidian.git)**
-- 🔹 **설명**: [메인 로깅 레파지토리]. 옵시디언 어플 필요
+ 🔹 **설명**: [메인 로깅 레파지토리]. 옵시디언 어플 필요
 - 🚀 **주요 기능**: 로그 총정리
 - 📅 **진행 상태**: 계속 업데이트 중
 
