@@ -18,8 +18,8 @@
 
 ### 🗂 **레포지토리 목록 및 진행 상황**
 
-#### 📌 **[Obsidiant](https://github.com/HTH-0/Obsidian.git)**
-- 🔹 **설명**: [메인 로깅 레파지토리]. 옵시디언 어플 필요
+### 📌 **[Obsidian](https://github.com/HTH-0/Obsidian.git)**
+- 🔹 **설명**: [메인], 옵시디언 어플 사용
 - 🚀 **주요 기능**: 로그 총정리
 - 📅 **진행 상태**: 계속 업데이트 중
 
