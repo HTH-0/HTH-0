@@ -12,23 +12,42 @@
 
 <img src="https://github.com/HTH-0/HTH-0/blob/output/github-contribution-grid-snake.svg"/>
 
-📖 개인 개발 로그 (Repositories Overview)
-🗂 레포지토리 목록 및 진행 상황
-각 레포지토리에 대한 진행 상황과 주요 내용을 정리하는 방식.
+레포지토리별로 정리하는 방식으로 수정하면 더 깔끔하게 관리할 수 있어. 예를 들어, 각 레포지토리에 대한 설명과 진행 상태를 추가하면 체계적으로 관리할 수 있어.  
 
-📌 My-Project
-🔹 설명: 개인 프로젝트 저장소
-🚀 주요 기능: API 개발, 프론트엔드 연동, 배포 진행 중
-📅 진행 상태: 개발 중 (업데이트 예정)
-📂 TIL
-🔹 설명: Today I Learned - 매일 배운 내용 정리
-📚 최근 추가된 내용:
-2025-03-03: GitHub Actions 설정 방법 정리
-2025-03-01: Docker 기본 개념 정리
-📅 진행 상태: 지속 업데이트 중
-📁 Open-Source-Contributions
-🔹 설명: 오픈소스 프로젝트 기여 내역 정리
-🛠 기여 내역:
-PR Merged: React 프로젝트 문서 수정 기여
-Issue Opened: Node.js 오류 보고
-📅 진행 상태: 비정기적 기여
+---
+
+## 📖 **개인 개발 로그 (Repositories Overview)**
+
+### 🗂 **레포지토리 목록 및 진행 상황**
+
+#### 📌 **[Obsidiant](https://github.com/HTH-0/Obsidian.git)**
+- 🔹 **설명**: [메인 로깅 레파지토리]. 옵시디언 어플 필요
+- 🚀 **주요 기능**: 로그 총정리
+- 📅 **진행 상태**: 계속 업데이트 중
+
+#### 📂 **[JAVA](https://github.com/HTH-0/JAVA.git)**
+- 🔹 **설명**: 자바 공부
+- 🚀 **주요 기능**: 정처산기 과정에서 배운 자바 + 개인적으로 추가된 내용 로그
+- 📅 **진행 상태**: 계속 업데이트 중  
+
+#### 📁 **[CodingTest](https://github.com/HTH-0/CodingTest.git)**
+- 🔹 **설명**: 알고리즘 공부
+- 🚀 **주요 기능**: 프로그래머스, 백준 문제풀이
+- 📅 **진행 상태**: 계속 업데이트 중  
+
+#### 📁 **[VSCODE](https://github.com/HTH-0/VSCODE.git)**
+- 🔹 **설명**: VS코드로 배운 내용등
+- 🚀 **주요 기능**: HTML, CSS, JS
+- 📅 **진행 상태**: 끝
+- 
+- #### 📁 **[Information-Processing](https://github.com/HTH-0/Information-Processing.git)**
+- 🔹 **설명**: 정처산기 과정 공부
+- 🚀 **주요 기능**: 정처산기 과정에서 배운 내용 (vs코드 이전)
+- 📅 **진행 상태**: 끝
+- 
+- - #### 📁 **[JAVAPractice](https://github.com/HTH-0/JAVAPractice.git)**
+- 🔹 **설명**: 자바 공부(초기)
+- 🚀 **주요 기능**: 완전 기초 자바 공부
+- 📅 **진행 상태**: 끝
+---
+
