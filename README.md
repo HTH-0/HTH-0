@@ -1,7 +1,7 @@
 <div align= "center">
 
 <img src="https://github.com/HTH-0/HTH-0/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+
 ---
 
 # 📖 **개인 개발 로그 (Repositories Overview)**
@@ -38,7 +38,7 @@
 - 🚀 **주요 기능**: 완전 기초 자바 공부
 - 📅 **진행 상태**: 끝
 
- 
+ </div>
 ---
 <div align= "center">
     <div align= "center">
