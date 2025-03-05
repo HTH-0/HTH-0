@@ -6,7 +6,9 @@
 
 # 📖 개인 개발 로그 (Repositories Overview)
 
-<div style="display: inline-block; text-align: left; max-width: 600px;">
+<table style="width: 600px; text-align: left;">
+<tr>
+<td>
 
 ## 📝 개인 학습 & 기록용 레포지토리  
 
@@ -30,8 +32,12 @@
 **주요 기능**: 홈페이지 프론트, 백엔드 구현  
 **진행 상태**: ✅ 완료  
 
+</td>
+</tr>
+</table>
+
 </div>
-</div>
+
 
 ---
 <div align= "center">
