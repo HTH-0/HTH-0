@@ -23,6 +23,11 @@
 ### 📂 **[CodingTest](https://github.com/HTH-0/CodingTest.git)**
 **설명**: 알고리즘 공부  
 **주요 기능**: 프로그래머스, 백준 문제풀이  
+**진행 상태**: 🚀 계속 업데이트 중 
+
+### 📁 **[MYSQL](https://github.com/HTH-0/MYSQL.git)**
+**설명**: DBMS 공부  
+**주요 기능**: sqld 준비, mysql 공부  
 **진행 상태**: 🚀 계속 업데이트 중  
 
 ### 📁 **[VSCODE](https://github.com/HTH-0/VSCODE.git)**
