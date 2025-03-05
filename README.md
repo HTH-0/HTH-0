@@ -38,6 +38,11 @@
 - 🚀 **주요 기능**: 완전 기초 자바 공부
 - 📅 **진행 상태**: 끝
 
+## 💎 **[Arts Hub](https://github.com/Jaewoong-Hwang/PROJECT_UI.git)**
+- 🔹 **설명**: Arts Hub 홈페이지
+- 🚀 **주요 기능**: 홈페이지 프론트, 백엔드 구현
+- 📅 **진행 상태**: 끝
+
  </div>
 ---
 <div align= "center">
