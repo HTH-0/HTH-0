@@ -2,12 +2,11 @@
 <img src="https://github.com/HTH-0/HTH-0/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
-
 <div align="center">
 
 # 📖 개인 개발 로그 (Repositories Overview)
 
-<div align="left">
+<div style="display: inline-block; text-align: left; max-width: 600px;">
 
 ## 📝 개인 학습 & 기록용 레포지토리  
 
@@ -33,6 +32,7 @@
 
 </div>
 </div>
+
 ---
 <div align= "center">
     <div align= "center">
