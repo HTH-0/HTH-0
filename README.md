@@ -16,7 +16,7 @@
 
 # 📖 **개인 개발 로그 (Repositories Overview)**
 
-### 📂 **레포지토리 목록 및 진행 상황**
+### 📌 **레포지토리 목록 및 진행 상황**
 
 ## 📂 **[Obsidian](https://github.com/HTH-0/Obsidian.git)**
 - 🔹 **설명**: [메인], 옵시디언 어플 사용
