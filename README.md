@@ -3,6 +3,8 @@
 
 ---
 
+<div align="center">
+
 # 📖 개인 개발 로그 (Repositories Overview)
 
 <div align="left">
@@ -31,19 +33,6 @@
 
 </div>
 </div>
-
----
-
-## 🏆 **조별 프로젝트**  
-
-### 💎 **[Arts Hub](https://github.com/Jaewoong-Hwang/PROJECT_UI.git)**
-**설명**: Arts Hub 홈페이지 개발  
-**주요 기능**: 홈페이지 프론트, 백엔드 구현  
-**진행 상태**: ✅ 완료  
-
----
-
- </div>
 ---
 <div align= "center">
     <div align= "center">
