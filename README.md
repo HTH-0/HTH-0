@@ -1,7 +1,7 @@
-
+<div align= "center">
 
 <img src="https://github.com/HTH-0/HTH-0/blob/output/github-contribution-grid-snake.svg"/>
-
+</div>
 ---
 
 # 📖 **개인 개발 로그 (Repositories Overview)**
