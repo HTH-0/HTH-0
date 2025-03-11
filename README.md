@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 🚀 HTH-0's GitHub Profile  
+# 📌 HTH-0's GitHub Profile  
 
-📌 **진행 상태 안내**  
+ **진행 상태 안내**  
 🚀 **진행 중** | ✅ **완료**  
 
 ---
