@@ -4,22 +4,31 @@
 
 <div align="center">
 
-# 🚀 HTH-0's GitHub Profile
+# 🚀 HTH-0's GitHub Profile  
+
+📌 **진행 상태 안내**  
+🚀 **진행 중** | ✅ **완료**  
+
+---
 
 ## 📚 Repository Overview
 
 ### 📝 **개인 학습 & 기록**
-- 📂 [**Obsidian**](https://github.com/HTH-0/Obsidian.git) - **메인 학습 로그** (옵시디언 사용) 🚀  
-- 📂 [**JAVA**](https://github.com/HTH-0/JAVA.git) - **자바 공부** (정처산기 + 개인 추가) 🚀  
-- 📂 [**CodingTest**](https://github.com/HTH-0/CodingTest.git) - **알고리즘 문제 풀이** (프로그래머스, 백준) 🚀  
-- 📁 [**MYSQL**](https://github.com/HTH-0/MYSQL.git) - **DBMS 공부 & SQLD 준비** 🚀  
-- 📁 [**VSCODE**](https://github.com/HTH-0/VSCODE.git) - **HTML/CSS/JS 정리** ✅  
-- 📁 [**Information-Processing**](https://github.com/HTH-0/Information-Processing.git) - **정처산기 과정 학습** ✅  
-- 📁 [**JAVAPractice**](https://github.com/HTH-0/JAVAPractice.git) - **자바 기초 학습** ✅  
+<div align="left" style="list-style: none;">
+  <p>📂 <a href="https://github.com/HTH-0/Obsidian.git"><b>Obsidian</b></a> - <b>메인 학습 로그</b> (옵시디언 사용) 🚀</p>
+  <p>📂 <a href="https://github.com/HTH-0/JAVA.git"><b>JAVA</b></a> - <b>자바 공부</b> (정처산기 + 개인 추가) 🚀</p>
+  <p>📂 <a href="https://github.com/HTH-0/CodingTest.git"><b>CodingTest</b></a> - <b>알고리즘 문제 풀이</b> (프로그래머스, 백준) 🚀</p>
+  <p>📁 <a href="https://github.com/HTH-0/MYSQL.git"><b>MYSQL</b></a> - <b>DBMS 공부 & SQLD 준비</b> 🚀</p>
+  <p>📁 <a href="https://github.com/HTH-0/VSCODE.git"><b>VSCODE</b></a> - <b>HTML/CSS/JS 정리</b> ✅</p>
+  <p>📁 <a href="https://github.com/HTH-0/Information-Processing.git"><b>Information-Processing</b></a> - <b>정처산기 과정 학습</b> ✅</p>
+  <p>📁 <a href="https://github.com/HTH-0/JAVAPractice.git"><b>JAVAPractice</b></a> - <b>자바 기초 학습</b> ✅</p>
+</div>
 
 ### 🏆 **프로젝트**
 #### **👥 조별 프로젝트**
-- 💎 [**Arts Hub**](https://github.com/Jaewoong-Hwang/PROJECT_UI.git) - **홈페이지 개발 (프론트/백엔드)** ✅  
+<div align="left" style="list-style: none;">
+  <p>💎 <a href="https://github.com/Jaewoong-Hwang/PROJECT_UI.git"><b>Arts Hub</b></a> - <b>홈페이지 개발 (프론트/백엔드)</b> ✅</p>
+</div>
 
 ---
 
