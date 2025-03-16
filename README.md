@@ -24,6 +24,8 @@
   <p>📁 <a href="https://github.com/HTH-0/JAVAPractice.git"><b>JAVAPractice</b></a> - <b>자바 기초 학습</b> ✅</p>
 </div>
 
+---
+
 ### 🏆 **프로젝트**
 #### **👥 조별 프로젝트**
 <div align="left" style="list-style: none;">
