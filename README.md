@@ -36,7 +36,7 @@
 </div>
 
 <div align="left" style="list-style: none;">
-  <p>💎 <a href="https://github.com/eononenoe/Project_HealthMe.git"><b>Health Me</b></a> - <b>홈페이지 개발 (프론트, 백엔드)</b> ✅</p>
+  <p>💎 <a href="https://github.com/eononenoe/Project_HealthMe.git"><b>Health Me</b></a> - <b>홈페이지 개발 (프론트, 백엔드)</b> 🚀</p>
 </div>
 
 ---
