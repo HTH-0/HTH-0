@@ -18,7 +18,7 @@
   <p>📂 <a href="https://github.com/HTH-0/Obsidian.git"><b>Obsidian</b></a> - <b>메인 학습 로그</b> (옵시디언 사용) 🚀</p>
   <p>📂 <a href="https://github.com/HTH-0/JAVA.git"><b>JAVA</b></a> - <b>자바 공부</b> (정처산기 + 개인 추가) 🚀</p>
   <p>📂 <a href="https://github.com/HTH-0/CodingTest.git"><b>CodingTest</b></a> - <b>알고리즘 문제 풀이</b> (프로그래머스, 백준) 🚀</p>
-  <p>📁 <a href="https://github.com/HTH-0/JSP.git"><b>JSP</b></a> - <b>JSP</b> 🚀</p>
+  <p>📁 <a href="https://github.com/HTH-0/JSP_SERVLET.git"><b>JSP_SERVLET</b></a> - <b>JSP 및 SERVLET 연습</b> 🚀</p>
   <p>📁 <a href="https://github.com/HTH-0/MYSQL.git"><b>MYSQL</b></a> - <b>DBMS 공부 & SQLD 준비</b> ✅</p>
   <p>📁 <a href="https://github.com/HTH-0/VSCODE.git"><b>VSCODE</b></a> - <b>HTML/CSS/JS 정리</b> ✅</p>
   <p>📁 <a href="https://github.com/HTH-0/Information-Processing.git"><b>Information-Processing</b></a> - <b>정처산기 과정 학습</b> ✅</p>
