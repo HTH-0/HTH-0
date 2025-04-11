@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 📌 HTH-0's GitHub Profile  
+#  HTH-0's GitHub Profile  
 
  **진행 상태 안내**  
 🚀 **진행 중** | ✅ **완료**  
@@ -41,13 +41,13 @@
 
 ---
 
-## ⚡ Tech Stacks  
+## 🔨 Tech Stacks  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 </p>
 
 ---
-
+## ⚡ Streak Stats
 <a href="https://git.io/streak-stats">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=HTH-0&theme=dark&hide_border=true&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=250"
