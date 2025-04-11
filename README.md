@@ -55,5 +55,12 @@
 </p>
 
 </div>
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=HTH-0&theme=dark&hide_border=true&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=250"
+    alt="GitHub Streak"
+    width="800"
+    height="250"
+  />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HTH-0&theme=dark&hide_border=true&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800&card_height=250)](https://git.io/streak-stats)
