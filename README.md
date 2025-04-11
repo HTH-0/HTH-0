@@ -48,12 +48,6 @@
 
 ---
 
-## 📊 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HTH-0&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTH-0&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
-</p>
-
 <a href="https://git.io/streak-stats">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=HTH-0&theme=dark&hide_border=true&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=250"
