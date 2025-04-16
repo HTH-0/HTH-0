@@ -66,13 +66,4 @@
   />
 </a>
 
----
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HTH-0&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/HTH-0"
-    width="800"
-    height="180"
-  />
-</a>
   
