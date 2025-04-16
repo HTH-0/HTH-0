@@ -1,6 +1,15 @@
 <img src="https://github.com/HTH-0/HTH-0/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HTH-0&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/HTH-0"
+  width="600"
+  height="300"
+/>
+</a>
+
+---
 
 <div align="center">
 
