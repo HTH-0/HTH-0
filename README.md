@@ -56,7 +56,12 @@
 </div>
 
 ---
+#### **개인 프로젝트**
+<div align="left" style="list-style: none;">
+  <p>💎 <a href="https://github.com/HTH-0/Growing-Plant"><b>식물 키우기</b></a> - <b>홈페이지 개발</b> 🚀</p>
+</div>
 
+---
 ## 🔨 Tech Stacks  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
