@@ -29,12 +29,12 @@
 
 ### 📝 **개인 학습 & 기록**
 <div align="left" style="list-style: none;">
-  <p>📂 <a href="https://github.com/HTH-0/Obsidian.git"><b>Obsidian</b></a> - <b>메인 학습 로그</b> (옵시디언 사용) 🚀</p>
-  <p>📂 <a href="https://github.com/HTH-0/JAVA.git"><b>JAVA</b></a> - <b>자바 공부</b> (정처산기 + 개인 추가) 🚀</p>
+  <p>📂 <a href="https://github.com/HTH-0/Obsidian.git"><b>Obsidian</b></a> - <b>메인 학습 로그</b> (옵시디언 사용) ✅</p>
+  <p>📂 <a href="https://github.com/HTH-0/JAVA.git"><b>JAVA</b></a> - <b>자바 공부</b> (정처산기 + 개인 추가) ✅</p>
   <p>📂 <a href="https://github.com/HTH-0/CodingTest.git"><b>CodingTest</b></a> - <b>알고리즘 문제 풀이</b> (프로그래머스, 백준) 🚀</p>
-  <p>📁 <a href="https://github.com/HTH-0/JSP_SERVLET.git"><b>JSP_SERVLET</b></a> - <b>JSP 및 SERVLET 연습</b> 🚀</p>
-  <p>📁 <a href="https://github.com/HTH-0/JAVAPractice.git"><b>Spring</b></a> - <b>Spring 기초 학습</b> 🚀</p>
-  <p>📁 <a href="https://github.com/HTH-0/JAVAPractice.git"><b>SpringBoot</b></a> - <b>Spring 기초 학습</b> 🚀</p>
+  <p>📁 <a href="https://github.com/HTH-0/JSP_SERVLET.git"><b>JSP_SERVLET</b></a> - <b>JSP 및 SERVLET 연습</b> ✅</p>
+  <p>📁 <a href="https://github.com/HTH-0/JAVAPractice.git"><b>Spring</b></a> - <b>Spring 기초 학습</b> ✅</p>
+  <p>📁 <a href="https://github.com/HTH-0/JAVAPractice.git"><b>SpringBoot</b></a> - <b>Spring 기초 학습</b> ✅</p>
   <p>📁 <a href="https://github.com/HTH-0/MYSQL.git"><b>MYSQL</b></a> - <b>DBMS 공부 & SQLD 준비</b> ✅</p>
   <p>📁 <a href="https://github.com/HTH-0/VSCODE.git"><b>VSCODE</b></a> - <b>HTML/CSS/JS 정리</b> ✅</p>
   <p>📁 <a href="https://github.com/HTH-0/Information-Processing.git"><b>Information-Processing</b></a> - <b>정처산기 과정 학습</b> ✅</p>
@@ -52,7 +52,7 @@
 </div>
 
 <div align="left" style="list-style: none;">
-  <p>💎 <a href="https://github.com/eononenoe/Project_HealthMe.git"><b>Health Me</b></a> - <b>홈페이지 개발 (프론트, 백엔드)</b> 🚀</p>
+  <p>💎 <a href="https://github.com/eononenoe/Project_HealthMe.git"><b>Health Me</b></a> - <b>홈페이지 개발 (프론트, 백엔드)</b> ✅</p>
 </div>
 
 ---
@@ -63,14 +63,5 @@
 </p>
 
 ---
-## ⚡ Streak Stats
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=HTH-0&theme=dark&hide_border=true&locale=ko&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=250"
-    alt="GitHub Streak"
-    width="800"
-    height="250"
-  />
-</a>
 
   
